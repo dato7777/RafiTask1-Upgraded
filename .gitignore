@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+
+# Ignore Google Drive API credentials
+client_secret*.json
+token.pickle
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
